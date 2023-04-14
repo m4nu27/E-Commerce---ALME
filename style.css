@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color: #EEE8AA;
+    align-items: center;
+    height: 10%;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 2.5rem;    
+}
+
+
+
+
+
+/* usar display flex e display grid */
